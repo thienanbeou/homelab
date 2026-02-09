@@ -1,1 +1,2 @@
 - [ ] I'm thinking about a pwd manager that can be accessed via Tailscale. 
+- [ ] dmzs/vlans
