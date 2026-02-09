@@ -1,8 +1,4 @@
-# homelab
-Somewhat journalistic documentations about my homelab
-=======
-## Purpose
-This is a somewhat journalistic docummentation of my personal homelab for infrastructure learning, network engineering practice, monitoring/observability, and self-hosting. The lab is designed as a controlled environment for testing DNS, VPN routing, service exposure models, and monitoring stacks in a sensible way.
+**This is a somewhat journalistic docummentation of my personal homelab for infrastructure learning, network engineering practice, monitoring/observability, and self-hosting. The lab is designed as a controlled environment for testing DNS, VPN routing, service exposure models, and monitoring stacks in a sensible way.**
 
 Primary goals:
 - Network and systems engineering practice
