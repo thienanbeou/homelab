@@ -21,7 +21,7 @@ Primary goals:
 - Role: Single-node server host
 - Storage: Local disk
 - Network: Single-LAN environment
-I am planning to deploy a NAS system as soon as I got hands on some extra hardware; as well as adapting the stack in order to the addition of the NAS. That's still a plan, for now. More on [system](docs/1.system).
+I am planning to deploy a NAS system as soon as I got hands on some extra hardware; as well as adapting the stack in order to the addition of the NAS. That's still a plan, for now. More on [system](docs/1. system).
 
 ## OS / Base System
 - Host OS: Debian (headless)
