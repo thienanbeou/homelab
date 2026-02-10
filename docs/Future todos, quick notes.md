@@ -6,4 +6,5 @@
 
 I was able to set TSDProxy up, now I'm able to have "pretty" domain names instead of having to remember my ip:ports for each service:
 ![tsdproxy](../images/tsdproxy.png)
-gonna add this to [networking](docs/2. networking.md) later
+gonna add this to [networking](docs/2. networking.md) later.
+I've just realized that even if I don't mind exposing vulerabilities by having Tailscale Funnel enabled on my services, I still can't share said services with my friends since Tailscale Funnel is rate-limited. Boohoo, looks like I still have to purchase a domain?
