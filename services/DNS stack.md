@@ -4,7 +4,8 @@ Pi-hole handles:
 - DNS filtering  
 - local DNS resolution   
 - policy-based blocking  
-- internal name resolution    
+- internal name resolution      
+	  
 Unbound acts as:   
 - a local recursive resolver   
 - caching layer   
