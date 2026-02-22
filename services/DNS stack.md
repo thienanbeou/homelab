@@ -1,13 +1,14 @@
 The DNS of the homelab stack consists of Pi-hole, Unbound and Tailscale VPN.   
-	Pi-hole handles:   
-		- DNS filtering  
-		- local DNS resolution   
-		- policy-based blocking  
-		- internal name resolution    
-	Unbound acts as:   
-		- a local recursive resolver   
-		- caching layer   
-		- upstream resolution path  
+
+Pi-hole handles:   
+- DNS filtering  
+- local DNS resolution   
+- policy-based blocking  
+- internal name resolution    
+Unbound acts as:   
+- a local recursive resolver   
+- caching layer   
+- upstream resolution path  
 
 This stack provides a self-contained DNS infrastructure without reliance on external resolvers.
 
