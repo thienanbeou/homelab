@@ -15,7 +15,6 @@ The service is designed for:
 An additional account is created for trusted friends connected via the Tailscale network, allowing controlled shared access when needed.
 
 Future plan:
-- Storage expansion via a dedicated NAS node
-- Potential migration to an external storage backend (TrueNAS)
+- Migration the local storage to a dataset backend via NAS
 
 ![nextcloud](../images/nextcloud.png)
