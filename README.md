@@ -59,6 +59,6 @@ I am planning to deploy a NAS system as soon as I got hands on some extra hardwa
 ### Applications
 - **Nextcloud:** File synchronization and collaboration.
 - **Navidrome:** Music streaming server.
-- **Crafty:** Minecraft server controller.
+- **Crafty:** Minecraft server controller. 
 and many more. Check it out in [services!](services/) 
 
